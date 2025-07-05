@@ -1,0 +1,27 @@
+[
+  {
+    "sku": "SKU-101",
+    "name": "Wireless Mouse",
+    "price": 25.99
+  },
+  {
+    "sku": "SKU-202",
+    "name": "USB-C Charger",
+    "price": 19.99
+  },
+  {
+    "sku": "SKU-303",
+    "name": "Bluetooth Headphones",
+    "price": 89.99
+  },
+  {
+    "sku": "SKU-404",
+    "name": "Mechanical Keyboard",
+    "price": 129.99
+  },
+  {
+    "sku": "SKU-505",
+    "name": "Webcam 1080p",
+    "price": 59.99
+  }
+]
